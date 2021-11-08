@@ -1,0 +1,102 @@
+{
+  "signUp" : {
+    "title" : "Sign Up",
+    "nameText": "Name",
+    "emailText": "Email",
+    "passwordText": "Password",
+    "phoneText": "Phone",
+    "buttonText": "Sign Up",
+    "checkHave": "Already have an Account ? ",
+    "LOrS": "Login",
+    "Div": "OR"
+  },
+  "login": {
+    "title" : "Login",
+    "emailText": "Email",
+    "passwordText": "Password",
+    "buttonText": "Login",
+    "checkHave": "Don't have an Account ? ",
+    "LOrS": "Sign Up",
+    "ForgetText": "Forget password ?"
+  },
+  "forgetPassword": {
+    "title" : "Forget Password",
+    "emailText": "Email",
+    "buttonText": "Reset Password",
+    "confirmButton" : "Confirm",
+    "resendMsg": "you can resend code after",
+    "seconds" : "60sec"
+  },
+  "editProfile": {
+    "title" : "Edit Profile",
+    "nameText": "Name",
+    "emailText": "Email",
+    "phoneText": "Phone",
+    "buttonText": "Edit"
+  },
+  "drawer": {
+    "home" : "Home",
+    "cart" : "Cart",
+    "offers" : "Offers",
+    "orders" : "Your previous orders",
+    "notifications" : "Notifications",
+    "addresses" : "Addresses",
+    "shopstaPay" : "Shopsta pay",
+    "complaints" : "Complaints",
+    "termsAndConditions" : "Terms and Conditions",
+    "contactUs" : "Contact Us"
+  },
+  "BottomNavigationBar" : {
+    "home" : "Home",
+    "category": "Categories",
+    "favourite" : "Favourite",
+    "settings" : "Settings"
+  },
+  "HomeView": {
+    "categoriesTitle": "Categories",
+    "offers": "Offers",
+    "products": "Products"
+  },
+  "SettingsView": {
+    "profileInfo" : "Profile Info",
+    "changePass" : "Change Password",
+    "editProfile" : "Edit Profile",
+    "lang" : "Language",
+    "logOutButton" : "Log Out"
+  },
+  "ProfileInfoView": {
+    "title" : "Profile Info",
+    "maleToggle" : "Male",
+    "femaleToggle" : "Female"
+  },
+  "ChangePasswordView": {
+    "title":"Change Password",
+    "hintText1": "Current Password",
+    "hintText2": "New Password",
+    "hintText3": "Confirm New Password",
+    "saveButton" : "Save"
+  },
+  "Language": {
+    "en" : "English",
+    "ar" : "Arabic"
+  },
+  "ProductDetails" : {
+    "description" : "Description",
+    "addNote": "Add Note",
+    "hintText": "Add any special requests or notes...",
+    "addToCartButton" : "Add To Cart"
+  },
+  "Cart" : {
+    "shoppingButton" : "Shopping Now",
+    "checkOutButton" : "Check Out",
+    "total" : "Total",
+    "subTotal" : "SubTotal"
+  },
+  "ErrorsMsgs" : {
+    "categoryEmpty" : "This Category is Empty...",
+    "errorWhenLoadPage" : "Error when loading this page...",
+    "emptyCart" : "Your cart is empty, add products to make it happy..",
+    "emptyOrders" : "No orders yet..."
+  }
+
+}

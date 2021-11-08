@@ -1,0 +1,101 @@
+{
+  "signUp" : {
+    "title" : "التسجيل",
+    "nameText": "الإسم",
+    "emailText": "البريد الإلكتروني",
+    "passwordText": "كلمة السر",
+    "phoneText": "الهاتف",
+    "buttonText": " تسجيل ",
+    "checkHave": "لديك حساب بالفعل ؟ ",
+    "LOrS": "تسجيل الدخول",
+    "Div": "أو"
+  },
+  "login": {
+    "title" : " تسجيل الدخول ",
+    "emailText": "البريد الإلكتروني",
+    "passwordText": "كلمة السر",
+    "buttonText": "تسجيل الدخول",
+    "checkHave": "ليس لديك حساب ؟ ",
+    "LOrS": "تسجيل",
+    "ForgetText": "نسيت كلمة السر ؟"
+  },
+  "forgetPassword": {
+    "title" : "نسيت كلمة السر",
+    "emailText": "البريد الإلكتروني",
+    "buttonText": "إعادة تعيين كلمة السر",
+    "confirmButton" : "تأكيد",
+    "resendMsg": "يمكنك إعادة إرسال الكود بعد ",
+    "seconds" : "60ثانية"
+  },
+  "editProfile": {
+    "title" : "تعديل الملف الشخصي",
+    "nameText": "الإسم",
+    "emailText": "البريد الإلكتروني",
+    "phoneText": "الهاتف",
+    "buttonText": "تعديل"
+  },
+  "drawer": {
+    "home" : "الرئيسية",
+    "cart" : "السلة",
+    "offers" : "العروض",
+    "orders" : "طلباتك السابقة",
+    "notifications" : "الإشعارات",
+    "addresses" : "العناوين",
+    "shopstaPay" : "الدفع",
+    "complaints" : "الشكاوي",
+    "termsAndConditions" : "الشروط و الأحكام",
+    "contactUs" : "تواصل معنا"
+  },
+  "BottomNavigationBar" : {
+    "home" : "الرئيسية",
+    "category": "التصنيفات",
+    "favourite" : "المفضلة",
+    "settings" : "الإعدادات"
+  },
+  "HomeView": {
+    "categoriesTitle": "التصنيفات",
+    "offers": "العروض",
+    "products": "المنتجات"
+  },
+  "SettingsView": {
+    "profileInfo" : "المعلومات الشخصية",
+    "changePass" : "تغيير كلمة السر",
+    "editProfile" : "تعديل  الملف الشخصي",
+    "lang" : "اللغة",
+    "logOutButton" : "تسجيل الخروج"
+  },
+  "ProfileInfoView": {
+    "title" : "المعلومات الشخصية",
+    "maleToggle" : "ذكر",
+    "femaleToggle" : "أنثى"
+  },
+  "ChangePasswordView": {
+    "title":"تغيير كلمة السر",
+    "hintText1": "كلمة السر الحالية",
+    "hintText2": "كلمة السر الجديدة",
+    "hintText3": "تأكيد كلمة السر الجديدة",
+    "saveButton" : "حفظ"
+  },
+  "Language": {
+    "en" : "الإنجليزية",
+    "ar" : "العربية"
+  },
+  "ProductDetails" : {
+    "description" : "الوصف",
+    "addNote": "أضف ملاحظة",
+    "hintText": "أضف أي طلب أو ملاحظة مميزة...",
+    "addToCartButton" : "اضف إلى السلة"
+  },
+  "Cart" : {
+    "shoppingButton" : "تسوق الأن",
+    "checkOutButton" : "تنفيذ الطلب",
+    "total" : "الإجمالي",
+    "subTotal" : "المجموع"
+  },
+  "ErrorsMsgs" : {
+    "categoryEmpty" : "عذراً,هذه المجموعة فارغة...",
+    "errorWhenLoadPage" : "حدث خطأ أثناء تحميل هذه الصفحة...",
+    "emptyCart" : "السلة الخاصة بك فارغة, قم بإضافة المنتجات لجعلها سعيدة..",
+    "emptyOrders" : "لا يوجد طلبات حتى الأن"
+  }
+}
